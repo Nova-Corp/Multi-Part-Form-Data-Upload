@@ -139,6 +139,6 @@ extension ViewController {
                     print(error)
                 }
             }
-            }.resume()
+        }.resume()
     }
 }
